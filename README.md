@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashkan Asgharzadeh, a 3rd year PhD student in Computer Science under supervision of Prof. Alberto Ros, University of Murcia, Spain.
+- 👋 Hi, I’m Ashkan Asgharzadeh, a PhD student in Computer Science under supervision of Prof. Alberto Ros, University of Murcia, Spain.
 - 👀 I’m interested in Computar Architecture.
 - 🌱 I’m currently working on performance improvement of atomic RMWs in TSO memory model.
 - 💞️ I’m collaborating in ECHO project (i.e., Extending Coherence for Hardware-Driven Optimizations in Multicore Architectures.)
